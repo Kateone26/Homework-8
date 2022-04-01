@@ -9,28 +9,8 @@
         flex-direction: column;
         align-items: center;
     }
-    /* .main-image{
-        margin-top: 100px;
-    } */
+
 }
-/* 
-@media(max-width:596px){
-   
-    .main-image{
-        margin-top: 200px;
-    }
-}
-
-
-@media(max-width:428px){
-   
-    .main-image{
-        margin-top: 300px;
-    }
-}
- */
-
-
 
 
 @media(max-width:630px){
